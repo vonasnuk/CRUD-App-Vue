@@ -1,4 +1,4 @@
-# killo
+# CRUD-App-Vue
 
 ## Project setup
 ```
